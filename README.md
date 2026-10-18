@@ -10,4 +10,4 @@ Mostly that means:
 
 Next up: a clinical AI project in Arabic and English, built on synthetic data and checked by a nurse (me).
 
-Into clinical AI, digital health and informatics in Saudi. Say hi: [al1.dev](https://al1.dev) · [a@al1.dev](mailto:a@al1.dev) · [LinkedIn](https://www.linkedin.com/in/aliutaif)
+Into clinical AI, digital health and informatics in Saudi. Say hi: [al1.dev](https://al1.dev) · [a@al1.dev](mailto:a@al1.dev) 
